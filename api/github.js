@@ -4,7 +4,7 @@
 import { corsHeaders } from './utils.js';
 
 // 支持的图片格式
-const SUPPORTED_IMAGE_FORMATS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif'];
+const SUPPORTED_IMAGE_FORMATS = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif', '.ico'];
 
 /**
  * 获取文件夹列表
